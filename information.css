@@ -1,4 +1,5 @@
 @charset "UTF-8";
 body {
   font-size：16px;
+  word-wrap: break-word;
 }
