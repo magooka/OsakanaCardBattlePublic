@@ -22,28 +22,3 @@ body {
 a {
   color: skyblue
 }
-
-.center-all {
-  position: fixed;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  color: white;
-  font-size：8vw;
-  font-family: sans-serif;
-  width : 400px ;
-  height : 300px ;
-  flex-wrap : wrap;
-  overflow : hidden;
-  word-break : break-all;
-  word-wrap : break-word;
-  overflow-wrap : break-word;
-  background-color: #222222;
-  -webkit-backface-visibility: hidden;
-
-  text-align: center;
-  vertical-align: middle;
-  display: table-cell;
-}
-
