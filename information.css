@@ -22,3 +22,10 @@ body {
 a {
   color: skyblue
 }
+
+.center-all {
+  text-align: center;
+  vertical-align: middle;
+  display: table-cell;
+}
+
