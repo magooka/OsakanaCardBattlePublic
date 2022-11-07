@@ -1,8 +1,8 @@
 {
-  "text_ja_a": "v1.6のアップデート情報\n・深海チャレンジ(beta)を追加しました\n・縦方向に画面を広げました\n・いくつかのカードの効果を変更しました",
-  "text_ja_i": "v1.6のアップデート情報\n・深海チャレンジ(beta)を追加しました\n・縦方向に画面を広げました\n・いくつかのカードの効果を変更しました",
-  "text_en_a": "Update v1.6\n- Added Deep Sea Challenge (beta)\n- changed game screen taller\n- Changed some cards effect",
-  "text_en_i": "Update v1.6\n- Added Deep Sea Challenge (beta)\n- changed game screen taller\n- Changed some cards effect",
+  "text_ja_a": "v1.7のアップデート情報\n・ボスへの状態異常の問題を修正しました\n・深海チャレンジで使うカードの不具合を修正しました",
+  "text_ja_i": "v1.7のアップデート情報\n・ボスへの状態異常の問題を修正しました\n・深海チャレンジで使うカードの不具合を修正しました",
+  "text_en_a": "Update v1.7\n- Fixed status problem for boss\n- Fixed cards in deep sea change",
+  "text_en_i": "Update v1.7\n- Fixed status problem for boss\n- Fixed cards in deep sea change",
   "url_ja_a": "https://battleofish.blogspot.com/p/update-v16j.html",
   "url_ja_i": "https://battleofish.blogspot.com/p/update-v16j.html",
   "url_en_a": "https://battleofish.blogspot.com/p/update-v16e.html",
