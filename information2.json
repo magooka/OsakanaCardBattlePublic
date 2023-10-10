@@ -1,10 +1,6 @@
 {
-  "text_ja_a": "v1.7のアップデート情報\n・ボスへの状態異常の問題を修正しました\n・深海チャレンジで使うカードの不具合を修正しました",
-  "text_ja_i": "v1.7のアップデート情報\n・ボスへの状態異常の問題を修正しました\n・深海チャレンジで使うカードの不具合を修正しました",
-  "text_en_a": "Update v1.7\n- Fixed status problem for boss\n- Fixed cards in deep sea change",
-  "text_en_i": "Update v1.7\n- Fixed status problem for boss\n- Fixed cards in deep sea change",
-  "url_ja_a": "https://battleofish.blogspot.com/p/update-v16j.html",
-  "url_ja_i": "https://battleofish.blogspot.com/p/update-v16j.html",
-  "url_en_a": "https://battleofish.blogspot.com/p/update-v16e.html",
-  "url_en_i": "https://battleofish.blogspot.com/p/update-v16e.html"
+  "text_ja_a": "v2.0のアップデート情報\n・深海チャレンジの後半を追加しました\n・深海チャレンジで使うカードやイベントの調整をしました",
+  "text_ja_i": "v2.0のアップデート情報\n・深海チャレンジの後半を追加しました\n・深海チャレンジで使うカードやイベントの調整をしました",
+  "text_en_a": "Update v2.0\n- Added deep sea latter half\n- Updated deep sea cards and events",
+  "text_en_i": "Update v2.0\n- Added deep sea latter half\n- Updated deep sea cards and events",
 }
