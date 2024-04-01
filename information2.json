@@ -1,10 +1,10 @@
 {
-  "text_ja_a": "v2.1のアップデート情報\n・深海チャレンジのボス周りの修正をしました\n一部カードの調整をしました",
-  "text_ja_i":"v2.1のアップデート情報\n・深海チャレンジのボス周りの修正をしました\n一部カードの調整をしました",
-  "text_en_a": "Update v2.1\n- Fixed deep sea boss behavior\n- Updated deep sea cards",
-  "text_en_i": "Update v2.1\n- Fixed deep sea boss behavior\n- Updated deep sea cards",
-  "url_ja_a": "https://battleofish.blogspot.com/p/update-v16j.html",
-  "url_ja_i": "https://battleofish.blogspot.com/p/update-v16j.html",
-  "url_en_a": "https://battleofish.blogspot.com/p/update-v16e.html",
-  "url_en_i": "https://battleofish.blogspot.com/p/update-v16e.html"
+  "text_ja_a": "v2.2のアップデート情報\n・バックエンドのメンテナンスを行いました\n",
+  "text_ja_i":"v2.2のアップデート情報\n・バックエンドのメンテナンスを行いました\n",
+  "text_en_a": "Update v2.2\n- Performed backend maintenance\n",
+  "text_en_i": "Update v2.2\n- Performed backend maintenance\n",
+  "url_ja_a": "",
+  "url_ja_i": "",
+  "url_en_a": "",
+  "url_en_i": ""
 }
